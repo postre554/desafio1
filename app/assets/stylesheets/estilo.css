@@ -1,0 +1,21 @@
+.botonera_vermas{
+    background-color:rgb(78, 73, 73);
+    border-radius: 10px;
+    font-size:14px;
+}
+.botonera_vermas a{
+    text-decoration: none;
+    color: coral;
+    padding:0px;
+}
+.botonera_vermas a:hover{
+    text-decoration: none;
+    color: rgb(117, 116, 175);
+    padding:0px;
+}
+.titulo{
+    font-size:34px;
+    letter-spacing:3px;
+    font:'monotype';
+}
+
